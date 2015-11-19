@@ -1,0 +1,3 @@
+[submodule "firstrepo"]
+	path = firstrepo
+	url = https://github.com/dshivaji/firstrepo.git
